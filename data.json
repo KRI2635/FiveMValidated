@@ -1,19 +1,8 @@
 {
   "servers": {
-    "1": {
-      "ip": "195.215.210.120",
-      "verificeret": [
-        "Kenya Playermanager",
-        "FivemStriker",
-        "FivemServerRestart",
-        "Kenya Destruer"
-      ]
-    },
-    "2": {
-      "ip": "138.201.129.168",
-      "verificeret": [
-        "FivemStriker"
-      ]
+	"138.201.129.168": {
+      "Kenya Playermanager": {},
+      "FivemStriker": {}
     },
     "195.215.210.120": {
       "Kenya Playermanager": {},
